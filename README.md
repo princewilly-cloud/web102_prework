@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='assets/DeepDive_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,9 +36,12 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+One of the main challenges I faced was learning how to manipulate HTML elements using the DOM. I also found styling with CSS difficult. I still struggle with it and often find it a bit technical and unintuitive.
+
+In addition, I was not always sure where to place new HTML content or which elements such as paragraph or heading tags were appropriate to use. Figuring out how to properly create and append elements to the DOM was a learning curve for me.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Princewill Umeh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
